@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+ :rocket:  &nbsp; Estou trabalhando no **Refresher**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: PHP com Laravel
