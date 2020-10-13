@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **SttavoS/SttavoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,10 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 # Gustavo Schneider
 
@@ -32,3 +28,5 @@ Sou um FullStack Developer :computer:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GustavoSchneider-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-schneider-7122b4123/)](https://www.linkedin.com/in/gustavo-schneider-7122b4123/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gustavo.schneider007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.schneider007@gmail.com)](mailto:gustavo.schneider007@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SttavoS&layout=compact)](https://github.com/SttavoS/github-readme-stats)
