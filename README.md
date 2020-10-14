@@ -1,17 +1,12 @@
-### Hi there 👋
-
-**SttavoS/SttavoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Gustavo Schneider 👋
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- :computer: Main stack: Laravel + Vue 
+- 👯 Other techs: HTML5, CSS3, JavaScript, React, NodeJS
+- 🤔 Techs I want to learn: Docker, Python, Ruby, ...
+- :purple_heart: Fun fact: I like Giant Robots and JRPGs
 
 
 # Gustavo Schneider
@@ -20,11 +15,6 @@ Here are some ideas to get you started:
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Atualmente estou desempregado e procurando emprego
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: Laravel/Vue
- <br/> 💬  &nbsp; Sobre mim: Fora programação, gasto boa parte do meu tempo jogando JRPGs ou assistindo anime de mecha
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GustavoSchneider-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-schneider-7122b4123/)](https://www.linkedin.com/in/gustavo-schneider-7122b4123/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-gustavo.schneider007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.schneider007@gmail.com)](mailto:gustavo.schneider007@gmail.com)
