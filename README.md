@@ -5,7 +5,7 @@ Sou um FullStack Developer :computer:
 
 - 🔭 I’m currently working on ...
 - :computer: Main stack: Laravel + Vue 
-- 👯 Other techs: HTML5, CSS3, JavaScript, React, NodeJS
+- 👯 Other techs: HTML5, CSS3, PHP, JavaScript, jQuery, React, NodeJS
 - 🤔 Techs I want to learn: Docker, Python, Ruby, ...
 - :purple_heart: Fun fact: I like Giant Robots and JRPGs
 
