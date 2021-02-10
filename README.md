@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sttavos&label=Profile%20views&color=0e75b6&style=flat" alt="sttavos" /> </p>
 
 <h1 align="center">Hi 👋, I'm Gustavo Schneider</h1>
 <h3 align="center">Web Fullstack Developer focusing in Laravel + Vue.js</h3>
@@ -31,4 +30,5 @@
 
 ## ⚡ GitHub Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sttavos&label=Profile%20views&color=0e75b6&style=flat" alt="sttavos" /> </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sttavos&show_icons=true&locale=en&layout=compact" alt="sttavos" />
