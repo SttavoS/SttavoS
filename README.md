@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Schneider</h1>
 <h3 align="center">Web Fullstack Developer focusing in Laravel + Vue.js</h3>
 
-<img align="right" src="https://i.imgur.com/5fAVkr5.png" />
+<img align="right" src="https://i.imgur.com/5fAVkr5.png" width="500"/>
 
 ## Contact
 <a href="mailto:gustavo.schneider007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
