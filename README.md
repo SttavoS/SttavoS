@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Schneider</h1>
 <h3 align="center">Web Fullstack Developer focusing in Laravel + Vue.js</h3>
 
-<img align="right" src="https://i.imgur.com/5fAVkr5.png" width="500"/>
-
 ## Contact
 <a href="mailto:gustavo.schneider007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gustavo-schneiderr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -30,5 +28,5 @@
 
 ## ⚡ GitHub Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sttavos&label=Profile%20views&color=0e75b6&style=flat" alt="sttavos" /> </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sttavos&show_icons=true&locale=en&layout=compact" alt="sttavos" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sttavos&label=Profile%20views&color=0e75b6&style=flat" alt="sttavos" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sttavos&show_icons=true&locale=en&layout=compact" alt="sttavos" /></p>
