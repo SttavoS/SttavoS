@@ -1,7 +1,9 @@
 <img src="https://i.imgur.com/6c7P9T4.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left">
-  Olá, me chamo Gustavo Schneider, tenho 22 anos e faço faculdade de Análise e Desenvolvimento de Sistemas na FSG (RS). Atualmente estou focando meus estudos em Laravel e Vue.js. Estou a procura de trabalho, caso queira conversar comigo, use os links abaixo.
+  Olá, eu sou Gustavo Schneider, tenho 22 anos e curso Análise e Desenvolvimento de Sistemas na FSG (RS). 
+  Atualmente foco meus estudos em Laravel e Vue.js. 
+  Estou a procura de trabalho, caso queira conversar comigo, use os links abaixo.
 </p>
 
 <p align="left">
