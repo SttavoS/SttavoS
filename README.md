@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🛠 Ferramentas: <strong>VSCode, GitHub, Figma, DBeaver.</strong>
+  🛠 Ferramentas: <strong>VSCode, GitHub, DBeaver, Postman, Figma, Notion.</strong>
 </p>
 
 <p align="left">
