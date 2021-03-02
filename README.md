@@ -7,7 +7,11 @@
 </p>
 
 <p align="left">
-  👨‍💻 Skills: <strong>HTML, CSS, JavaScript, PHP, Vue.js, Laravel, Git, MySQL, PostgreSQL, Docker, Zsh/Bash.</strong> 
+  👨‍💻 Main Stack: <strong>JavaScript, PHP, Vue.js, Laravel, PostgreSQL</strong> 
+</p>
+
+<p align="left">
+  💻 Outras Techs: <strong>HTML, CSS, Bootstrap, React, Git, MySQL, Docker, WSL2, Zsh/Bash.</strong> 
 </p>
 
 <p align="left">
