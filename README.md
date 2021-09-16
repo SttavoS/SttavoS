@@ -7,4 +7,4 @@
 - 💬 Ask me about PHP
 - 📫 How to reach me: gustavo.schneider.dev@gmail.com
 - 😄 Pronouns: His/Him
-- ⚡ Fun fact: Gosto de Gundam
+- ⚡ Fun fact: I like Giant Robots and RPG
