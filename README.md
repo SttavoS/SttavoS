@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/DCQzUlL.gif" min-width="400px" max-width="400px" width="400px" align="right" style="border-radius: 12px" />
+<img src="https://i.imgur.com/DCQzUlL.gif"  max-width="500px" width="500px" align="right" style="border-radius: 12px" />
 
 ### Hi there 👋🏻
   - 🌱 I’m currently learning JavaScript and Java <br>
