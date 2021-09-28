@@ -1,7 +1,6 @@
 <img src="https://i.imgur.com/DCQzUlL.gif" min-width="400px" max-width="400px" width="400px" align="right" style="border-radius: 3px" />
 
-## Hi there 👋🏻
-
+### Hi there 👋🏻
   - 🌱 I’m currently learning JavaScript and Java <br>
   - 👯 I’m looking to collaborate on PHP and JS projects <br>
   - 🤔 I’m looking for help with REST Api <br>
