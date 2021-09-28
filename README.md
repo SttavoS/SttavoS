@@ -16,7 +16,7 @@
 <details close>
   <summary> 📊 Github Stats:</summary>
   <p align = "center">
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SttavoS&hide=html&theme=nightowl&layout=compact">    
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SttavoS&theme=nightowl&layout=compact">    
   </p>
 </details>
 
