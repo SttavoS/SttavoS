@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/DCQzUlL.gif"  max-width="500px" width="500px" align="right" style="border-radius: 12px" />
+<img src="https://monophy.com/media/kUGK2fwgL5kTXmzvlC/monophy.gif"  max-width="300px" width="300px" align="right" style="border-radius: 12px" />
 
 ### Hi there 👋🏻
   - 🌱 I’m currently learning JavaScript and Java 
