@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/DCQzUlL.gif" min-width="400px" max-width="400px" width="400px" align="right" />
+<img src="https://i.imgur.com/DCQzUlL.gif" max-width="500px" width="500px" align="right" />
 
 ### Hi there 👋🏻
   - 🌱 I’m currently learning JavaScript and Java 
@@ -14,7 +14,7 @@
 ---
 <details close>
   <summary> 📊 Github Stats:</summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SttavoS&theme=material-palenight&layout=compact" alt="Sttavos Top Languages"/> </br>
-    <img src="https://github-readme-stats.vercel.app/api?username=SttavoS&theme=material-palenight&show_icons=true" alt="Sttavos Github Stats"/> </br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SttavoS&theme=material-palenight&layout=compact" alt="SttavoS Top Languages"/> </br>
+    <img src="https://github-readme-stats.vercel.app/api?username=SttavoS&theme=material-palenight&show_icons=true" alt="SttavoS Github Stats"/> </br>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SttavoS&theme=material-palenight&layout=compact" alt="SttavoS wakatime stats"/>
 </details>
