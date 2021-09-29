@@ -1,11 +1,11 @@
 <img src="https://i.imgur.com/DCQzUlL.gif" min-width="400px" max-width="400px" width="400px" align="right" />
 
 ### Hi there 👋🏻
-  - 🌱 I’m currently learning JavaScript and Java <br>
-  - 👯 I’m looking to collaborate on PHP and JS projects <br>
-  - 🤔 I’m looking for help with REST Api <br>
-  - 💬 Ask me about PHP <br>
-  - ⚡ Fun fact: I like Giant Robots and RPG<br>
+  - 🌱 I’m currently learning JavaScript and Java 
+  - 👯 I’m looking to collaborate on PHP and JS projects
+  - 🤔 I’m looking for help with REST Api
+  - 💬 Ask me about PHP
+  - ⚡ Fun fact: I like Giant Robots and RPG
 
 ### 📭 Contact:
 <a href="mailto:gustavo.schneider.dev@gmail.com" target="_blank"><img src="https://shields.braskam.com/v1/shields?name=email&format=rectangle&size=small"/></a>
