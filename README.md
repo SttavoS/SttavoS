@@ -14,7 +14,7 @@
 ---
 <details close>
   <summary> 📊 Github Stats:</summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SttavoS&theme=material-palenight&layout=compact&hide=typescript" alt="SttavoS Top Languages"/> </br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SttavoS&theme=material-palenight&layout=compact&langs_count=6" alt="SttavoS Top Languages"/> </br>
     <img src="https://github-readme-stats.vercel.app/api?username=SttavoS&theme=material-palenight&show_icons=true" alt="SttavoS Github Stats"/> </br>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SttavoS&theme=material-palenight&layout=compact&langs_count=6&hide=typescript" alt="SttavoS wakatime stats"/>
 </details>
