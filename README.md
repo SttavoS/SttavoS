@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/DCQzUlL.gif" max-width="500px" width="500px" align="right" />
 
 ### Hi there 👋🏻
+  - 🔭 I’m currently working on Eccosys
   - 🌱 I’m currently learning JavaScript and Java 
   - 👯 I’m looking to collaborate on PHP and JS projects
   - 🤔 I’m looking for help with REST Api
