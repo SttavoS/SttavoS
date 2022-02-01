@@ -2,7 +2,7 @@
 
 ### Hi there 👋🏻
   - 🔭 I’m currently working on Eccosys
-  - 🌱 I’m currently learning JavaScript and Java 
+  - 🌱 I’m currently learning Symfony and Doctrine 
   - 👯 I’m looking to collaborate on PHP and JS projects
   - 🤔 I’m looking for help with REST Api
   - 💬 Ask me about PHP
