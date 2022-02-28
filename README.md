@@ -11,6 +11,7 @@
 ### 📭 Contact:
 <a href="mailto:gustavo.schneider.dev@gmail.com" target="_blank"><img src="https://shields.braskam.com/v1/shields?name=email&format=rectangle&size=small"/></a>
 <a href="https://www.linkedin.com/in/gustavo-schneiderr/" target="_blank"><img src="https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small"/></a>
+<a href="https://gitlab.com/SttavoS" target="_blank"><img src="https://shields.braskam.com/v1/shields?name=gitlab&format=rectangle&size=small"/></a>
 
 ---
 <details close>
