@@ -1,5 +1,5 @@
 # Hi there 👋🏻
-I'm SttavoS (Gustavo Schneider), a brazilian FullStack Developer focus on PHP. Work on ERP focus in Ecommerce. I want to learn Rust and C#/.NET. Fun Fact: I like Mecha (like Gundam) and JRPGs.
+I'm SttavoS (Gustavo Schneider), a brazilian FullStack Developer focus on PHP. Working on ERP for Ecommerce. I'm currently learning Rust and C#/.NET. Fun Fact: I like Mecha (like Gundam) and JRPGs :)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,php,laravel,linux,mysql)](https://skillicons.dev)
 
