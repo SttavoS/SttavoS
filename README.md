@@ -1,7 +1,8 @@
 # Hi there 👋🏻
 I'm SttavoS (Gustavo Schneider), a brazilian FullStack Developer focus on PHP. Working on ERP for Ecommerce. I'm currently learning Rust and C#/.NET. Fun Fact: I like Mecha (like Gundam) and JRPGs :)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,php,laravel,linux,mysql)](https://skillicons.dev)
+### 💻 Skills:
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,rust,js,ts,vue,php,laravel,linux,mysql)](https://skillicons.dev)
 
 ### 📭 Contact:
 <a href="mailto:gustavo.schneider.dev@gmail.com" target="_blank"><img src="https://shields.braskam.com/v1/shields?name=email&format=rectangle&size=small"/></a>
@@ -11,6 +12,6 @@ I'm SttavoS (Gustavo Schneider), a brazilian FullStack Developer focus on PHP. W
 ---
 <details close>
   <summary> 📊 Github Stats:</summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SttavoS&theme=material-palenight&layout=compact&langs_count=6" alt="SttavoS Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SttavoS&theme=material-palenight&layout=compact&langs_count=10" alt="SttavoS Top Languages"/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SttavoS&theme=material-palenight&layout=compact&langs_count=6&hide=Other,JSON,YAML" alt="SttavoS wakatime stats"/>
 </details>
