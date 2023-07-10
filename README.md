@@ -1,8 +1,8 @@
 # Hi there 👋🏻
-I'm SttavoS (Gustavo Schneider), a brazilian FullStack Developer focus on PHP. Working on ERP for Ecommerce. I'm currently learning Rust and C#/.NET. Fun Fact: I like Mecha (like Gundam) and JRPGs :)
+I'm SttavoS (Gustavo Schneider), a brazilian FullStack Developer focus on PHP. Working on ERP for Ecommerce. I'm currently learning Typescript and React/Next.js. Fun Fact: I like Mecha (like Gundam) and JRPGs :)
 
 ### 💻 Skills:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,rust,js,ts,elixir,vue,php,laravel,linux,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,nestjs,vue,php,mysql)](https://skillicons.dev)
 
 ### 📭 Contact:
 <a href="mailto:gustavo.schneider.dev@gmail.com" target="_blank"><img src="https://shields.braskam.com/v1/shields?name=email&format=rectangle&size=small"/></a>
