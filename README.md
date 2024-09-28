@@ -12,6 +12,6 @@ I'm SttavoS (Gustavo Schneider), a brazilian FullStack Developer focus on Front-
 ---
 <details close>
   <summary> 📊 Github Stats:</summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SttavoS&theme=material-palenight&layout=compact&langs_count=6" alt="SttavoS Top Languages"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SttavoS&theme=material-palenight&layout=compact&langs_count=6&hide=Other,JSON,YAML" alt="SttavoS wakatime stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SttavoS&theme=gruvbox&layout=compact&langs_count=6" alt="SttavoS Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SttavoS&theme=gruvbox&layout=compact&langs_count=6&hide=Other,JSON,YAML" alt="SttavoS wakatime stats"/>
 </details>
