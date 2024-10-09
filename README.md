@@ -2,7 +2,7 @@
 I'm SttavoS (Gustavo Schneider), a brazilian FullStack Developer focus on Front-end. Currently looking for a job. I'm currently learning Typescript and React/Next.js.
 
 ### 💻 Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,vue,cs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,ts,nodejs,react,nextjs)](https://skillicons.dev)
 
 ### 📭 Contact:
 <a href="mailto:gustavo.schneider.dev@gmail.com" target="_blank"><img src="https://shields.braskam.com/v1/shields?name=email&format=rectangle&size=small"/></a>
