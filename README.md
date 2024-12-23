@@ -11,8 +11,8 @@
            `-/+sssssssssssssssso+:`           └────────────────────────────────────────────────────┘
          `-:/+sssssssssssssssssso+/.
        `.://osssssssssssssssssssso++-         ┌──────────────────────Software──────────────────────┐
-      .://+ssssssssssssssssssssssso++:         OS: EndeavourOS x86_64
-    .:///ossssssssssssssssssssssssso++:       │ ├: Linux 6.12.4-arch1-1
+      .://+ssssssssssssssssssssssso++:         OS: EndeavourOS
+    .:///ossssssssssssssssssssssssso++:       │ ├ DE: GNOME 47
   `:////ssssssssssssssssssssssssssso+++.      │ ├󰏖: 1103 (pacman), 49 (flatpak)
 `-////+ssssssssssssssssssssssssssso++++-      └ └: zsh 5.9
  `..-+oosssssssssssssssssssssssso+++++/`
